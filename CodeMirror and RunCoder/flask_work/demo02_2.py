@@ -1,6 +1,6 @@
 # zxby.py
 # -*- coding: utf-8 -*-
-# __author__="ZJL"
+# __author__="AI悦创"
 
 import os, sys, subprocess, tempfile, time
 
